@@ -11,7 +11,7 @@ loginbtn.addEventListener("click",(e)=>{
     if(localName == input && localpswd==input1){
         alert("Login Successfull...........!")
         // window.location.href="/home/home.html"
-        window.location.href="/home/home.html"
+        window.location.href="/BOM-login-signup-pages/home/home.html"
     }else{
         alert("Oops.......! invalid details")
     }
