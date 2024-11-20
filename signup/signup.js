@@ -13,7 +13,7 @@ btn.addEventListener("click", (e) => {
         localStorage.setItem("Email", UserinputEmail)
         localStorage.setItem("pswd", userinputpswd)
         alert(" Signup Successfull.................")
-        window.location.href= "/login/login.html"
+        window.location.href= "/BOM-login-signup-pages/login/login.html"
     }else{
         alert("Please fill the fields............!")
     }
